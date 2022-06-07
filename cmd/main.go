@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(mathy.Fact(10))
+	fmt.Println(mathy.Fib(10))
 	fmt.Println(mathy.Fact(10))
 }
